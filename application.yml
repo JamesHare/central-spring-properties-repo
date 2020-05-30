@@ -1,4 +1,5 @@
-name: James
-gender: male
-planet: Earth
-location: GitHub
+user:
+  name: james
+  gender: male
+  planet: earth
+config.location: GitHub
