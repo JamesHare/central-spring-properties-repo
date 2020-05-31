@@ -1,1 +1,3 @@
-user.planet: Mars
+user:
+  planet: Mars
+  name: Robert
